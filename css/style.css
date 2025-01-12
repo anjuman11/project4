@@ -1,0 +1,50 @@
+*{
+    margin: 10px 10px;
+    padding: 0;
+}
+h1{
+    color: rgb(201, 233, 17);
+    background-color: blueviolet;
+    text-align: center;
+	height: 40px;
+	width: 50%;
+	text-align: center;
+	margin: 5px;
+	padding: 5px;
+	border: 15px solid grey;
+
+}
+p{
+    color: rgb(216, 76, 104);
+    background: #213f65;
+	text-align: center;
+	width: 50%;
+	margin: 5px;
+	padding: 5px;
+	border: 15px solid green;
+}
+h3{
+    color: rgb(30, 148, 226);
+    background: #c0078b;
+    text-align: center;
+    height: 30px;
+	width: 20%;
+	margin: 5px;
+	padding: 5px;
+}
+.ol{
+    list-style-type: lower-alpha;
+}
+.ul{
+    list-style-type: square;
+}
+table,tr,th,td {
+    border: 1px;
+    border-style:solid;
+    padding:15px;
+    border-collapse: collapse;
+    text-align: center;
+    color:rgb(232, 24, 24);
+    
+}
+
